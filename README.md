@@ -84,7 +84,3 @@ On first run, the bot will download the training dataset from HuggingFace and tr
 ## Disclaimer
 
 This bot deletes messages automatically based on model predictions. Test it in a private server before deploying to a live community, and monitor its behavior to catch false positives.
-
-## License
-
-No license specified yet. Add one (e.g., MIT) if you plan to share or accept contributions.
